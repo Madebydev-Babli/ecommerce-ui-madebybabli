@@ -65,7 +65,7 @@ const Home = () => {
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 0.6 }}
       >
-        Welcome to <span className="text-[#3B82F6]">MadebyBabli</span> Store
+        <span className="text-[#3B82F6]">Wish Cart</span>
       </motion.h1>
 
       {/* 🔍 Search Bar */}
